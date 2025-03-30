@@ -49,7 +49,7 @@ A project designed to **enhance group collaboration** by simplifying **project o
 - Android-Spring Boot **chat app** with User Management, Friendship, Chats, and Groups.
 - Integrates **REST API** and **Web Sockets** for real-time interactions.
 - Uses **FCM** for background push notifications.
-- [Backend Github](https://github.com/mostafa-tamer/ChatWithMe-SpringBoot) | [Android Github](https://github.com/mostafa-tamer/ChatWithMe-Android) | [Gallery](https://www.behance.net/gallery/202302419/Chat-Applicatoin)
+- [Backend GitHub](https://github.com/mostafa-tamer/ChatWithMe-SpringBoot) | [Android GitHub](https://github.com/mostafa-tamer/ChatWithMe-Android) | [Gallery](https://www.behance.net/gallery/202302419/Chat-Applicatoin)
 
 ### **Large-Scale E-Commerce Database Design**
 - Designed and populated a **large-scale e-commerce database** using PostgreSQL.
