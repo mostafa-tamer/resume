@@ -49,7 +49,7 @@ A project designed to **enhance group collaboration** by simplifying **project o
 - Android-Spring Boot **chat app** with User Management, Friendship, Chats, and Groups.
 - Integrates **REST API** and **Web Sockets** for real-time interactions.
 - Uses **FCM** for background push notifications.
-- [Backend Repo](https://github.com/mostafa-tamer/ChatWithMe-SpringBoot) | [Android Repo](https://github.com/mostafa-tamer/ChatWithMe-Android) | [Gallery](https://www.behance.net/gallery/202302419/Chat-Applicatoin)
+- [Backend Github](https://github.com/mostafa-tamer/ChatWithMe-SpringBoot) | [Android Github](https://github.com/mostafa-tamer/ChatWithMe-Android) | [Gallery](https://www.behance.net/gallery/202302419/Chat-Applicatoin)
 
 ### **Large-Scale E-Commerce Database Design**
 - Designed and populated a **large-scale e-commerce database** using PostgreSQL.
@@ -104,6 +104,7 @@ A project designed to **enhance group collaboration** by simplifying **project o
 ## Android Development Experience
 - **1 year** of experience in Android development (XML & Jetpack Compose).
 - Focused on **asset management, inventories, and CMMS** at **Manzoma Technology Solutions**.
+- **egFWD Scholarship – Advanced Android Kotlin Development (Sep 2022 – Nov 2022):** Graduated from Udacity’s program. [Certificate](https://github.com/mostafa-tamer/resume/blob/main/android-udacity-certificate.jpg)
 - Worked on **freelancing projects**, teaching Kotlin and developing applications.
 - Developed an **Inventory Management System for marbles**.
 - Built **large-scale applications**, following **software engineering principles**.
