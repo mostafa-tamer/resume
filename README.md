@@ -35,7 +35,8 @@ Designed and implemented the ECG Device Manager as a core component in a modular
   - Tracks lifecycle of real-time patient data streaming.
   - Controls start, stop, and restart of ECG data streams.
   - Ensures consistency between the current session and the streaming state.
-  - Implements streaming delay detection mechanisms.
+  - Built streaming delay detection mechanism.
+  - Built catchup streaming after disconnection
 
 - SD Card Manager: 
   - Monitors SD card status on the device.
@@ -61,13 +62,17 @@ Bug Resolution
 
 ---
 
+Contributed in evolving the binary protocol between the server and the ecg device
+
 Built a virtual ECG that helps for running the server without a need of a physical device
+
+Rebuilt the device cache with a clean architecture and performance consideration
 
 Documented components with UML and technical diagrams — widely used and praised across the team.
 
 Handled production issues by SSH-ing into Linux servers, checking Docker logs, and exporting logs for debugging.
 
-Deployed the **RIMPulse System** into **Docker Containers**
+<!-- Deployed the **RIMPulse System** into **Docker Containers** -->
 <!-- 
 - Built a **logger** for the system, in which each directory is a hub contains logger files each hub is controlled by logger manager, logger files can be (enabled, disabled, deleted)
 - Developed **unit & integration tests** for the features I implemented.
@@ -173,3 +178,9 @@ A project designed to **enhance group collaboration** by simplifying **project o
     } */]
   </style>
 </head>
+
+
+<!-- TODO -->
+<!-- server device cache -->
+<!-- soft skills ->  -->
+<!-- ai usage in code, writing documents, extract vulnerabilities -->
