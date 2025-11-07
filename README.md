@@ -23,7 +23,7 @@ Also handle **system documentation**, **architecture diagrams**, and **refactori
 #### Achievements
 
 **Device Manager**  
-The Device Manager is the core component responsible for maintaining the state and behavior of all connected ECG devices. It interprets incoming events and executes actions such as assign, session, streaming, and SD card operations based on the current state.
+The Device Manager, designed and developed from scratch, it is the core component responsible for maintaining the state and behavior of all connected ECG devices. It interprets incoming events and executes actions such as assign, session, streaming, and SD card operations based on the current state.
 
 It ensures that each action happens in the right order and under the right conditions.  
 For example, it won’t start a streaming session before confirming that a device is assigned.  
@@ -36,14 +36,14 @@ It also performs **device health checks**, such as verifying session and stream 
 ---
 
 **SD Card Management**  
-Handles everything related to the SD card’s health and lifecycle on ECG devices.  
+Handled everything related to the SD card’s health and lifecycle on ECG devices.  
 - Continuously monitors SD card capacity, usage thresholds, and operational status.  
 - Supports on-demand **formatting** operations while ensuring safe execution and no interference with ongoing sessions.  
 
 ---
 
 **Backup Management**  
-Implements an intelligent backup system that ensures no data loss even when devices go offline.  
+Built an intelligent backup system that ensures no data loss even when devices go offline.  
 - When a patient records sessions while the device is offline, data is temporarily stored on the SD card.  
 - Once the device reconnects, the server requests metadata of recorded sessions so that users can selectively upload them.  
 - Supports **partial uploads** (specific parts of sessions) depending on the session type and data relevance.  
