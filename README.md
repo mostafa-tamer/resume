@@ -6,7 +6,7 @@
 
 ## Professional Summary
 
-Owned the end-to-end architecture of the critical ECG device-to-server communication system at Pulse, driving production stability that directly secured enterprise contract renewals in the UK and new regional expansions across major healthcare networks in Egypt and Saudi Arabia. **Focused on solving complex concurrency, real-time data ingestion, and network protocol failures in production environments.**
+Owned the end-to-end architecture of the critical ECG device-to-server communication system at Pulse, driving production stability that directly secured enterprise contract renewals in the UK and new regional expansions across major healthcare networks in Egypt and Saudi Arabia. **Focused on solving complex concurrency, real-time data ingestion, and network protocol failures in production environments.**, with a strong foundation in modular Clean Architecture and Microservices concepts.
 
 ---
 
@@ -37,11 +37,13 @@ Developed and optimized large-scale enterprise applications (Assets Manager, Inv
 
 ## Technical Skills
 
-* **Languages & Core Foundations:** Java, Kotlin, C/C++, SQL, OOP, Data Structures & Algorithms, Concurrency & Multithreading, SOLID Principles, Design Patterns.
-* **Backend Integration:** Spring Boot, Jakarta EE, Gradle, Maven, REST APIs, WebSockets (Architecture & Channel Isolation), Angular (Familiar), Dependency Injection.
-* **Databases & Tuning:** MySQL, PostgreSQL, Query Optimization, Indexes (B-Tree, Covering, Composite), Triggers, Stored Procedures, Concurrency Control.
-* **DevOps & Architecture:** Docker, Docker Compose, Kubernetes Fundamentals, Clean Architecture, Domain-Driven Design (DDD), Microservices Concepts (Resilience Patterns, Service Decomposition, Eventual Consistency).
-* **Tools & Testing:** Git/GitHub, Linux, IntelliJ Profiler, Arquillian Integration Testing.
+* **Languages & Core Foundations:** Java, Kotlin, C/C++, SQL, Concurrency & Multithreading, OOP, Data Structures & Algorithms, SOLID Principles, Design Patterns.
+* **Backend & IoT Integration:** Spring Boot, Jakarta EE, MQTT Protocols, Real-Time Data Ingestion, WebSockets (Architecture & Channel Isolation), REST APIs, Stream Processing, Dependency Injection, Maven, Gradle.
+* **Frontend & Web Development:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap, Angular (Familiar).
+* **Databases & Performance Tuning:** MySQL, PostgreSQL, Query Optimization, Indexing Strategies (B-Tree, Covering, Composite), Stored Procedures & Triggers, Concurrency Control.
+* **Architecture & Systems Design:** Microservices Architecture, Clean Architecture, Domain-Driven Design (DDD), Resilience Patterns, Service Decomposition, Eventual Consistency.
+* **DevOps & Cloud Infrastructure:** Docker, Docker Compose, Kubernetes Fundamentals, AWS (EC2), Linux.
+* **Tools & Testing:** Git/GitHub, IntelliJ Profiler, Arquillian Integration Testing, Postman.
 
 ---
 
@@ -54,7 +56,7 @@ Developed and optimized large-scale enterprise applications (Assets Manager, Inv
 
 ### **Real-Time Chat Application**
 
-* Developed a full-stack Android and Spring Boot chat system supporting real-time interactions via WebSockets and REST APIs. Integrated Firebase Cloud Messaging (FCM) for background push notifications and managed data models for user relationships and group chats.
+* Engineered a full-stack Android and Spring Boot chat system supporting real-time interactions via WebSockets and REST APIs. Integrated Firebase Cloud Messaging (FCM) for background push notifications and managed data models for user relationships and group chats.
 * [Backend GitHub](https://github.com/mostafa-tamer/ChatWithMe-SpringBoot) | [Android GitHub](https://github.com/mostafa-tamer/ChatWithMe-Android)
 
 ---
