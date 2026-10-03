@@ -37,7 +37,7 @@ Developed and optimized large-scale enterprise applications (Assets Manager, Inv
 
 ## Technical Skills
 
-* **Languages & Core Foundations:** Java, Kotlin, C/C++, SQL, Concurrency & Multithreading, OOP, Data Structures & Algorithms, SOLID Principles, Design Patterns.
+* **Languages & Core Foundations:** Java, Kotlin, C#, Python, C/C++, SQL, Concurrency & Multithreading, OOP, Data Structures & Algorithms, SOLID Principles, Design Patterns.
 * **Backend & IoT Integration:** Spring Boot, Jakarta EE, MQTT Protocols, Real-Time Data Ingestion, WebSockets (Architecture & Channel Isolation), REST APIs, Stream Processing, Dependency Injection, Maven, Gradle.
 * **Frontend & Web Development:** HTML5, CSS3, JavaScript (ES6+), Tailwind CSS, Bootstrap, Angular (Familiar).
 * **Databases & Performance Tuning:** MySQL, PostgreSQL, Query Optimization, Indexing Strategies (B-Tree, Covering, Composite), Stored Procedures & Triggers, Concurrency Control.
