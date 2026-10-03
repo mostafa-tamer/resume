@@ -14,7 +14,7 @@ Owned the end-to-end architecture of the critical ECG device-to-server communica
 
 ### Java Software Engineer (Backend) – **Pulse for Integrated Solutions GmbH** *(Dec 2024 – Present)*
 
-* **High-Availability Streaming Pipelines:** Engineered an atomic, multi-stage request pipeline for critical ECG live-streaming operations, ensuring zero stream drops in hospital environments via dynamic stage-level retries; eliminated catastrophic stream failures and protected system runtime by auto-aborting orphaned pipelines upon sudden device disconnections.
+* **High-Availability Streaming Pipelines:** Engineered an atomic, multi-stage request pipeline for critical ECG live-streaming operations, ensuring zero stream drops in hospital environments via stage-level retries; eliminated catastrophic stream failures and protected system runtime by auto-aborting orphaned pipelines upon sudden device disconnections.
 * **Device Manager Architecture:** Architected and developed a centralized module to manage and control ECG medical devices, refactoring legacy business logic out of a monolithic communication class into a scalable, modular design.
 * **Connection Concurrency Control:** Resolved a critical race condition where network instability caused duplicate active connections for a single device, implementing an eviction strategy that forcibly terminates stale connections to prevent state corruption and database inconsistencies.
 * **Data Integrity & Crash Recovery:** Engineered a thread-safe Backup Manager to synchronize device SD card data to the server; built a robust **server-boot recovery routine** that scans backup files to locate the last valid frame and isolate physical corruption.
